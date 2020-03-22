@@ -32,7 +32,6 @@ public class Theatre1SwitchApp {
         // and therefore there is a negative value in the p variable
         // (recall that the calculatePrice() method of the Theatre1If class assigns/stores in the price instance
 		// variable if the day is invalid)
-		//System.out.println("Price of the ticket is €" + p);
 		
 	}//end main
 } //end class
